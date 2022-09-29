@@ -1,5 +1,6 @@
 name: CI to GHCR 
 
+
 on:
   push:
     branches: [ master ]
